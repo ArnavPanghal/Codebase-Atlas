@@ -1,0 +1,10 @@
+[project]
+name = "codebase-atlas-backend"
+version = "0.1.0"
+description = "Backend for Codebase Atlas"
+dependencies = [
+    "fastapi",
+    "uvicorn",
+    "networkx",
+    "pydantic"
+]
