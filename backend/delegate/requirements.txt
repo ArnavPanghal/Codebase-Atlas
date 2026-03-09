@@ -1,0 +1,8 @@
+pyaudio
+vosk
+pyttsx3
+numpy
+langchain
+chromadb
+ollama
+sentence-transformers
